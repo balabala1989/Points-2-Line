@@ -16,4 +16,4 @@
 	
 ### App Store Link
 
-	<a href="https://appworld.blackberry.com/webstore/content/21797913/?lang=en&countrycode=IN)"> App Store Link </a>
+	[App Store Link](https://appworld.blackberry.com/webstore/content/21797913/?lang=en&countrycode=IN)
